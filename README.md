@@ -3,9 +3,9 @@ Dataset of Burmese proverbs, from various sources.
 
 ### Format
 
-The data format are as follows:
+The data format is as follows:
 
-**proverb**, **description**
+*proverb*, *description*
 
 ### TODO
 * Cite sources
