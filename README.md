@@ -1,4 +1,4 @@
-# BurmeseProverbDataSet
+# Burmese Proverb DataSet
 Dataset of Burmese proverbs, from various sources.
 
 ### Format
