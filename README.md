@@ -7,8 +7,14 @@ The data format is as follows:
 
 *proverb*, *description*
 
+### Sources
+* [Burmese Proverb App](https://play.google.com/store/apps/details?id=com.shweapps.myanmaraccproverbs&hl=en)
+* [Asia Pearl Travel](http://www.asiapearltravels.com/language/lesson35_script.php)
+* [Zagabon Tumblr](http://zagabon.tumblr.com/)
+* [Myanmar Network](http://www.myanmar-network.net/forum/topics/sayings-and-proverbs)
+
+
 ### TODO
-* Cite sources
 * Add English translations
 * Find even more sources of data
 
