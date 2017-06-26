@@ -5,7 +5,7 @@ Dataset of Burmese proverbs, from various sources.
 
 The data format is as follows:
 
-*proverb*, *description*
+*id, *proverb_name*, *description_mm*, *description_en*
 
 ### Sources
 * [Burmese Proverb App](https://play.google.com/store/apps/details?id=com.shweapps.myanmaraccproverbs&hl=en)
@@ -13,10 +13,6 @@ The data format is as follows:
 * [Zagabon Tumblr](http://zagabon.tumblr.com/)
 * [Myanmar Network](http://www.myanmar-network.net/forum/topics/sayings-and-proverbs)
 
-
-### TODO
-* Add English translations
-* Find even more sources of data
 
 License
 -------
